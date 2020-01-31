@@ -1,0 +1,1 @@
+id	type	DescriptionTitle	PriceLabel	ListingDate	ReListingDate	Address	Suburb	State	PostCode	Property.lat	Property.lon	PropertyType	Agency.Id	Agency.Type	Agency.Name	Agent.Name	Beds	Baths	Cars	EER	PlotSize	Features
